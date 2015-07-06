@@ -16,3 +16,6 @@ $ jekyll serve
 3. run `jekyll serve` in the command line.
 4. Open <http://localhost:7000> in your browser
 
+
+## next
+1. [jekyll 한국어 번역 사이트](http://jekyllrb-ko.github.io/)
