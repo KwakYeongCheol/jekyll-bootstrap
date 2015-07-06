@@ -1,0 +1,13 @@
+_site
+.sass-cache
+
+.DS_Store
+Thumbs.db
+RemoteSystemsTempFiles/
+
+*.swp
+
+*.iml
+.idea/*
+.metadata/*
+
